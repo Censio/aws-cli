@@ -20,8 +20,8 @@ if sys.version_info[:2] == (2, 6):
 
 
 setup_options = dict(
-    name='awscli',
-    version=awscli.__version__,
+    name='censio-awscli',
+    version='0.1.UNKNOWN',
     description='Universal Command Line Environment for AWS.',
     long_description=open('README.rst').read(),
     author='Amazon Web Services',
